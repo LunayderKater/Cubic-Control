@@ -3,9 +3,9 @@
 
 ### Backup Related
 - [x] Make Backups when activity + offline
-- [ ] Make Backups when activity + online
-- [ ] Make Backups when no activity + offline
-- [ ] Make Backups when no activity + online
+- [x] Make Backups when activity + online
+- [x] Make Backups when no activity + offline
+- [x] Make Backups when no activity + online
 - [ ] Add Maximum Backupsystem (overwrite)
 
 ### Discord Intigration
