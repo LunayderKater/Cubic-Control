@@ -10,7 +10,7 @@ with Backup Functionality + Discord Integration
 
 **Automatic Interval Backup**
 
-Make Backups depending if there was activity or not and take the backup whilest the server is running or let Cubic Control shut it down first.
+Make Backups depending if there was server activity a.k.a a player was online, or not and take the backup whilest the server is running or let Cubic Control shut it down first.
 You can change the "Server is goining down message".
 
 --------------------------------------------------
