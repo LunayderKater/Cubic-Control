@@ -11,4 +11,5 @@
 ### Discord Intigration
 - [ ] Add Discord Net API
 - [ ] Make Calls & Layouting
+- [ ] Make Serverstatus = Bot Status a setting
 
