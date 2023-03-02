@@ -12,6 +12,7 @@ with Backup Functionality + Discord Integration
 
 Make Backups depending if there was server activity a.k.a a player was online, or not and take the backup whilest the server is running or let Cubic Control shut it down first.
 You can change the "Server is goining down message".
+![Screenshot](https://cdn.discordapp.com/attachments/1062337655465062420/1080778322293829682/SPOILER_image.png "BackUp Options")
 
 --------------------------------------------------
 
