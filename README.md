@@ -7,6 +7,7 @@ with Backup Functionality + Discord Integration
 ### Because managing a Bedrock Server is not that easy...
 #### With Cubic Control you take control of your minecraft bedrock server with must have features like:
 
+--------------------------------------------------
 
 **Automatic Interval Backup**
 
