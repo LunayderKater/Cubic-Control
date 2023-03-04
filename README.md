@@ -1,8 +1,7 @@
 # Cubic Control - The #1 Bedrock Server Manager
 with Backup Functionality + Discord Integration
 
-![Screenshot](https://media.discordapp.net/attachments/1062337655465062420/1080415787799556167/SPOILER_image.png "Working Prototype")
-
+[![Cubic Control](http://img.youtube.com/vi/QpFP3HPr9B0/0.jpg)](http://www.youtube.com/watch?v=QpFP3HPr9B0 "Cubic Control - First Look Alpha")
 
 ### Because managing a Bedrock Server is not that easy...
 #### With Cubic Control you take control of your minecraft bedrock server with must have features like:
