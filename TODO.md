@@ -17,9 +17,9 @@
 - [x] Add Maximum Backupsystem (overwrite).
 
 ### Discord Integration Related
-- [ ] Add Discord Net API.
-- [ ] Add Settings to CFG File (enable / token / logchannel / status enable / chat enable).
-- [ ] Make Status Updates.
+- [x] Add Discord Net API.
+- [x] Add Settings to CFG File (enable / token / ~~logchannel~~ / status enable / chat enable).
+- [x] Make Status Updates.
 - [ ] Make Message recieve Events trigger a send to chat.
 
 ### AutoUpdate Integration Related
