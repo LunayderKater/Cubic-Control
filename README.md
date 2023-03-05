@@ -19,7 +19,6 @@ You can change the "Server is goining down message".
 
 + **Discord Integration:** With a bot-token and a bot on your server, Cubic Control can do stuff no other Server Manager does!
 Get Discord Messages directly into your Minecraft Chat.
-Get the Server Log into a discord channel.
 Show the current server status and player online count as the discord-bot status.
 And much more integration coming.
 
