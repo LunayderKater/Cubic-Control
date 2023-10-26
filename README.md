@@ -19,6 +19,8 @@ Discover the power of Cubic Control, the ultimate Bedrock server management tool
 
 - **Addon Manager:** Forget the days of wrestling with manual configurations, navigating JSON files, and struggling with UUIDs. Cubic Control makes it effortless with a three-step process: add, select, and apply. You can now concentrate on fostering your Minecraft community, knowing that Cubic Control handles all the intricacies seamlessly. Experience a simplified approach to managing your addons, giving you more time for what truly matters.
 
+- **Stats Viewer:** When was the cpu usage high, which player count was at 1:30am and whar was the 13th players name again? That and more will be shown with an easy to use stats viewer. StatsViewer brings also the option to export every data collected into a need komma seperated file. To make graphs and much more possible.
+
 Explore the endless possibilities of Cubic Control and seize control of your Bedrock server today.
 
 ## System Requirements
