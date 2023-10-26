@@ -31,3 +31,10 @@ Explore the endless possibilities of Cubic Control and seize control of your Bed
 **Download from GitHub**
 + [https://github.com/LunayderKater/Cubic-Control/releases](https://github.com/LunayderKater/Cubic-Control/releases)
 
+
+## Credits
+Thanks to [cen0b](https://e-z.bio/cen0b) being the UI/UX Designer for this project.
+
+
+## Help and Support needed?
+Join the new [Lunay Codes! Discord Server](https://discord.gg/79W8CfVyz4)
