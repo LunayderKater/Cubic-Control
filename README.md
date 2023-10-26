@@ -1,29 +1,24 @@
 # Cubic Control
-### The #1 Bedrock Server Manager for Windows.
-![Cubic Control](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)
+#### The #1 Bedrock Server Manager for Windows.
 
-*Cubic Control is not related to Mojang / Microsoft / Windows in anyway.*
+![Cubic Control](https://lnyktr.de/wp-content/uploads/preview.png)
 
+*Cubic Control is not related to Mojang / Microsoft / Windows in any way.*
 
-## Features
+## TOP Features
+Discover the power of Cubic Control, the ultimate Bedrock server management tool for Windows.
 
-Cubic Control makes managing a Bedrock Server easy as it uses an intuitive and user friendly approach for the GUI.
-When others are cluttert with unstyled buttons, Cubic Control breaks that chain and brings a ton of usefull features!
+- **Automatic Interval Backup:** Customize backups based on server activity, ensuring your data is always safe. Choose whether to back up while the server is running or let Cubic Control shut it down first. You can even change the "Server is going down" message too.
 
-**Included in the final version are:**
-+ **Automatic Interval Backup:** Make Backups depending if there was server activity a.k.a a player was online, or not and take the backup whilest the server is running or let Cubic Control shut it down first.
-You can change the "Server is goining down message".
+- **Auto Update:** Say goodbye to manual server software updates. Cubic Control streamlines the process, eliminating the need to download, unzip, and drag & drop files. You have full control over updates – instruct Cubic Control to automatically handle necessary server updates immediately or simply notify you when an update is available. The choice is yours, tailored to your specific needs. Effortless server maintenance at your fingertips.
 
-+ **Auto Update:** Make Backups depending if there was server activity a.k.a a player was online, or not and take the backup whilest the server is running or let Cubic Control shut it down first.
-You can change the "Server is goining down message".
+- **Discord Integration:** Elevate your server with Discord bot integration. Receive Discord messages directly in your Minecraft chat, display server status and player count as your Discord bot's status, and enjoy more integration features to come.
 
-+ **Discord Integration:** With a bot-token and a bot on your server, Cubic Control can do stuff no other Server Manager does!
-Get Discord Messages directly into your Minecraft Chat.
-Show the current server status and player online count as the discord-bot status.
-And much more integration coming.
+- **Player Management:** Maintain a comprehensive player list with unique IDs. Ban players, even after they change their usernames, and seamlessly manage player privileges through the intuitive GUI.
 
-+ **Player Management:** Cubic Control makes a list of all Players including their IDs so you can ban people even after they changed there username.
-Port Players to Players and give OP Rights directly from the GUI.
+- **Addon Manager:** Forget the days of wrestling with manual configurations, navigating JSON files, and struggling with UUIDs. Cubic Control makes it effortless with a three-step process: add, select, and apply. You can now concentrate on fostering your Minecraft community, knowing that Cubic Control handles all the intricacies seamlessly. Experience a simplified approach to managing your addons, giving you more time for what truly matters.
+
+Explore the endless possibilities of Cubic Control and seize control of your Bedrock server today.
 
 ## System Requirements
 + **.Net Framework 4.8:** [Download here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
@@ -33,11 +28,3 @@ Port Players to Players and give OP Rights directly from the GUI.
 **Download from GitHub**
 + [https://github.com/LunayderKater/Cubic-Control/releases](https://github.com/LunayderKater/Cubic-Control/releases)
 
-
-After downloading start the CubicControl.exe > Insert the Serverfiles to the server folder created at the exe file location and customise the settings using the Settings Button.
-
-**Thats it! You are now ready for Cubic Control to manage your Bedrock Server.**
-
-You can see a video of the early alpha here:
-
-[![Video on YouTube](http://img.youtube.com/vi/QpFP3HPr9B0/0.jpg)](http://www.youtube.com/watch?v=QpFP3HPr9B0 "Video on YouTube")
