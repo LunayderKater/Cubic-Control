@@ -1,8 +1,7 @@
 # Cubic Control
 #### The #1 Bedrock Server Manager for Windows.
 
-![Cubic Control](https://lnyktr.de/wp-content/uploads/preview.png)
-Image blurred as WIP
+![Cubic Control](https://lnyktr.de/wp-content/uploads/Screenshot-2023-10-27-175829.png)
 
 *Cubic Control is not related to Mojang / Microsoft / Windows in any way.*
 
