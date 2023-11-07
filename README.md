@@ -36,4 +36,4 @@ Thanks to [cen0b](https://e-z.bio/cen0b) being the UI/UX Designer for this proje
 
 
 ## Help and Support needed?
-Join the new [Lunay Codes! Discord Server]([https://discord.gg/79W8CfVyz4](https://discord.gg/tjtf974wKA)https://discord.gg/tjtf974wKA)
+Join the new [Lunay Codes! Discord Server](https://discord.gg/tjtf974wKA)
